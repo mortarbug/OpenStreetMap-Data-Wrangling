@@ -1,0 +1,24 @@
+Image of Seattle Metro Area: 
+http://www.starseattlemovers.com/wp-content/uploads/2015/12/seattle-metro.png
+
+Used as a reference on elementtree throughtout project:
+https://docs.python.org/2/library/xml.etree.elementtree.html
+
+Where I learned to use the .clear() method to save memory:
+https://stackoverflow.com/questions/11216662/why-is-elementtree-elementtree-iterparse-using-so-much-memory
+
+The reddit post in my discussion:
+https://www.reddit.com/r/flightsim/comments/5wdl9w/saw_this_revision_in_openstreetmap/
+
+Where I learned the Seattle Area zip codes:
+http://www.city-data.com/zipmaps/Seattle-Washington.html
+
+Where I learned the Victoria zip codes:
+https://www.zip-codes.com/canadian/city.asp?city=VICTORIA&province=BC
+
+
+Where I found the population data for Seattle:
+https://en.wikipedia.org/wiki/Seattle_metropolitan_area
+
+Where I learned to import files into SQLite:
+https://discussions.udacity.com/t/use-sqlite3-in-jupyter-nb-not-from-terminal/174939/2
